@@ -1,0 +1,7 @@
+{
+  "name": "good-defaults",
+  "version": "1.0.0",
+  "description": "My preferred defaults for Node projects",
+  "author": "Marcus Linder <info@marcuslinder.se> (https://marcuslinder.se)",
+  "license": "ISC"
+}
